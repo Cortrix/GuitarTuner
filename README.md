@@ -8,5 +8,5 @@ This app is composed of 2 main components:
 2. PitchDetector (wear/src/PitchDetector.java) performs the transforms on the raw audio data in an attempt to calculate
 pitch frequency information.
 
-At present time, the Pitch Detector is accurate up to +/-3 points, but does not have the accuracy necessary
+At present time, the Pitch Detector is accurate up to +/-1.5 points, but does not have the accuracy necessary
 for tuning a guitar.
